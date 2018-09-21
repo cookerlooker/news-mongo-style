@@ -2,7 +2,7 @@
 
 # Using MongoDB & Mongoose To Scrape The NYT news\*\*
 
-### To view the deployed version on Heroku[click the link!](https://nyt-mongo-scraper-news-app.herokuapp.com/)\*\*\_
+### To view the deployed version on Heroku[click the link!](https://whispering-badlands-94643.herokuapp.com/)\*\*\_
 
 ## Technologies used:
 
